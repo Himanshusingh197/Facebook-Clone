@@ -62,6 +62,7 @@ header{
     padding: 14px 16px;
     box-sizing: border-box;
     font-size: 17px;
+    outline: none;
 }
 .login-btn-container{
     display: flex;
